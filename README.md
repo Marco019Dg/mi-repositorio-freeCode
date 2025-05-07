@@ -1,2 +1,2 @@
-# mi-repositorio-freeCode
+# mi-README
 Repositorio de ejemplo para el curso de FreeCodeCamp
